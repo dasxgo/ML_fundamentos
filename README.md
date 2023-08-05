@@ -6,7 +6,7 @@ Fundamentos ML
 - PCA
 - Autovalores y autovectores
 - Combinaciones
-- Descomponer mattrices
+- Descomponer matrices
 - Ecuaciones lineales
 - Escalares
 - Especios y subespacios
