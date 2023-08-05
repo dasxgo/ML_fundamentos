@@ -2,7 +2,7 @@
 Fundamentos ML 
 
 ## Contenido
-- funciones
+- Funciones
 - PCA
 - Autovalores y autovectores
 - Combinaciones
