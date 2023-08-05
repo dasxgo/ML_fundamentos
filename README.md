@@ -1,5 +1,5 @@
-# Machine Learning
-Fundamentos ML 
+# ML-Intro
+Machine learning fundamentos 
 
 ## Contenido
 - Funciones
