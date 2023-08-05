@@ -1,7 +1,7 @@
 # Machine Learning fundamentos
 Fundamentos ML 
 
-# Contenido
+## Contenido
 - funciones
 - PCA
 - Autovalores y autovectores
